@@ -4,8 +4,9 @@
 I'm a **B.Tech Computer Science** student at **MIT School of Engineering, Pune**, specializing in **Blockchain Technology**. I'm passionate about building decentralized applications and full-stack web solutions that solve real-world problems.
 
 🔭 **Currently working on:** AI Agent development and exploring multi-agent systems using Google ADK 
+
 🌱 **Learning:** Advanced smart contract security, DeFi protocols, and AI-powered applications  
-👯 **Looking to collaborate on:** Open source blockchain projects and Web3 infrastructure as well as Web Development Projects
+🤝**Looking to collaborate on:** Open source blockchain projects and Web3 infrastructure as well as Web Development Projects
 💬 **Ask me about:** Blockchain, Smart Contracts, MERN Stack, Next.js, or Web3 development  
 ⚡ **Fun fact:** I've participated in hackathons by ISRO, Google, and Smart India Hackathon!
 
