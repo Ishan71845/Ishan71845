@@ -66,7 +66,7 @@ AI-powered agent built with Google's Gemini ADK for automated competitive analys
 ### 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishanshrivastava1511)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ishan71845@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishan71845@gmail.com)
 ---
 
 ### 🎯 Open Source Contributions
@@ -88,7 +88,7 @@ I'm actively contributing to open source projects and preparing for **Google Sum
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Ishan71845&color=blueviolet&style=flat-square&label=Profile+Views)
 
 ---
 
